@@ -16,4 +16,9 @@ Union bank has a floating interest on their house loan. Their fixed interest loa
 
 My brother had taken his home loan from Union Bank. While the loan was active, the bank and its staff were very cooperative and he was a very satisfied customer. So he encouraged me to try Union bank also as an option. So we visited their branch and talked to the respective officer. She was ready to go for lunch when we reached there, but she stayed back and gave us a brief idea about the loan options. `She insisted that a floating loan is the better option in today's economy`. 
 
-Union Bank's current interest rate is around 7.00pa
+Union Bank's current interest rate is around 7% p.a.
+
+## What to do next
+* Find out more about the Fixed interest rate and floting interest rates
+* Submit documents in both banks determine eligibility
+* Find more about the PMAY project
