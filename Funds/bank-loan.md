@@ -48,3 +48,4 @@ My salary account is maintained at SBI (at a Bangalore branch). When I visited m
     * I can get a subsidy (approx. 2L)
     * Max available loan amount is only 9L (see if more money can be availed at without an interest rebate/subsidy)
     * NPV is calculated at 9%. (#TODO: Find out what is NPV and how is it different from the interest rate)
+    * PMAY Toll Free: NHB: 1800-11-3377, 1800-11-3388, HUDCO: 1800-11-6163
