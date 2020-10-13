@@ -6,8 +6,8 @@ A repo to capture my observations, learnings and processes while I build our hou
 ## Location
 We are building this house in a land I inherited from my parents. It is a 54 cent land, facing NE direction. The approach road is small (3-4 meter wide) panchayat road. There is an abandoned paddy field (owned by somebody else) is across the road, right in front of our land. 
 
-## My priorities
+## What should be my priorities
 * സുരക്ഷ (safety)
-* സൗകര്യം (space)
+* സൗകര്യം (livable, adequately spaceous, storage, maintanability)
 * സൗന്ദര്യം (elegance)
 * മിതത്വം ()
