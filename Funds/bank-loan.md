@@ -1,6 +1,19 @@
 # Procuring a bank loan
 I've contacted two banks, 1) [Kerala Gramin Bank (KGB)](https://keralagbank.com/personal-banking/home-loans) and 2) [Union Bank](https://www.unionbankofindia.co.in/english/retail-loan.aspx)
 
+When it comes to procuring a home loan, I had two primary options. a) a Bank loan, b) a Housing Finance Company (HFC). Below are comparisons:
+
+| Features | Banks | HFCs |
+| :--- | :--- | :--- |
+| Lending rate | Based on Marginal Cost Lending Rate (MCLR) | Prime Lending Rate (This is usually higher than MCLR) |
+| Documentation process | Stingent | Lesser, compared to banks |
+| Interest rates | Comparatively lesser | Higher than Banks |
+| OD facility | Available | Not Available |
+| Interest rate benefit | Faster in tx to borrowers | Slower, compared to banks |
+[Source](https://economictimes.indiatimes.com/wealth/borrow/should-you-opt-for-a-home-loan-from-bank-or-housing-finance-company/articleshow/69573435.cms)
+
+Based on the info above, I decided approach banks first.
+
 ## Kerala Gramin Bank
 A reliable friend suggested applying the loan from KGB. (He is not directly associated with KGB). Hence I visited their local branch and had a discussion with the manager. She was welcoming and was willing to explain in detail about various aspects about `Home Loans` in general and the `KGB's Home Loan` options.
 KGB offer fixed interest rate loans, which she told me as an attractive option for a person of my age (44 now). With a fixed interest rate, I do not have to be worried about a fluctuating/volatile market.
