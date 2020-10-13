@@ -10,6 +10,7 @@ When it comes to procuring a home loan, I had two primary options. a) a Bank loa
 | Interest rates | Comparatively lesser | Higher than Banks |
 | OD facility | Available | Not Available |
 | Interest rate benefit | Faster in tx to borrowers | Slower, compared to banks |
+
 [Source](https://economictimes.indiatimes.com/wealth/borrow/should-you-opt-for-a-home-loan-from-bank-or-housing-finance-company/articleshow/69573435.cms)
 
 Based on the info above, I decided approach banks first.
