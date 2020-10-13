@@ -23,7 +23,7 @@ As of today, KGB's [interest rates](https://keralagbank.com/loan-interest-rates)
 | Loan Category | Interest Rate | Comments |
 | :--- | :---: | :--- |
 | Housing Loan General | 9.5%|
-| Pradhan Mantri Awas Yojana | 9.45% | Upto ₹20L. #TODO Find more|
+| Pradhan Mantri Awas Yojana | 9.45% | Upto ₹20L. More info [here...](https://www.iifl.com/home-loans/pradhan-mantri-awas-yojana-clss/eligibility)|
 
 ## Union Bank
 Union bank has a floating interest on their house loan. Their fixed interest loans have a maximum of 5yr tenure. 
@@ -42,5 +42,9 @@ My salary account is maintained at SBI (at a Bangalore branch). When I visited m
 
 ## What to do next
 * Find out more about the Fixed interest rate and floting interest rates
-* Submit documents in both banks determine eligibility
+* Submit documents in both banks determine eligibility (DONE: I'm eligible for availing the required amount of loan from both Union and SBI)
 * Find more about the PMAY project
+    * I fall under the Middle Income Group (1)
+    * I can get a subsidy (approx. 2L)
+    * Max available loan amount is only 9L (see if more money can be availed at without an interest rebate/subsidy)
+    * NPV is calculated at 9%. (#TODO: Find out what is NPV and how is it different from the interest rate)
