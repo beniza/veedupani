@@ -123,6 +123,9 @@ CLSS for MIG will support acquicision/construction of house (including re-purcha
 </tbody>
 </table>
 
+EWS: Economically Weaker Segments, LIG: Low Income Group, MIG: Middle Income Group
+[Source](https://pmayuclap.gov.in/content/html/CLSS_Vertical.html)
+
 ### My assesment
     * I fall under the Middle Income Group (1)
     * I can get a subsidy (approx. 2L)
